@@ -1,5 +1,6 @@
 # :pushpin: SPA - Dashboard
 
+<br/><br/><br/>
 ## :computer: Projeto
 <h1 align="center">
 <img src="https://github.com/gui13info/Dashboard/blob/master/screen/Dashboard%20DevMedia.gif" alt="Projeto gif" />
